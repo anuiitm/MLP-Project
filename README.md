@@ -141,7 +141,7 @@ Typical libraries used:
 ├── Notebook.ipynb          
 ├── README.md               
 ├── requirements.txt        
-└── System-Threat-forecaster.zip          
+└── System-Threat-Forecaster.zip          
 ```
 
 ---
